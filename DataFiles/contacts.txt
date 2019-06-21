@@ -1,0 +1,4 @@
+name1,9876543210,abc123@gmail.com
+rupesh,8500155570,rupeshkumar.v@apssdc.in
+sai,7989963592,sai_123@gmail.com
+krishna,7989963592,sai123@gmail.com
